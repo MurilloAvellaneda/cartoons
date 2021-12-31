@@ -1,0 +1,47 @@
+header, footer {
+    background-color: #292828;
+    padding: 15px;
+    height: 60px;
+}
+
+#menu-nav {
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.menu-item {
+    list-style-type: none;
+}
+
+.menu-item a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    padding: 40px;
+    font-size: 24px;
+
+}
+
+.desenho {
+    display: flex;
+    align-items: center;
+}
+
+.sobre-o-desenho {
+    margin: 0 20px;
+}
+
+.lista-de-personagens {
+    padding: 0
+}
+
+.personagem {
+list-style-type: none;
+padding: 0
+}
+
+#scooby-doo-img {
+    width: 500px;
+    margin-left: 20px
+}
